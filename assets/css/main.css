@@ -952,7 +952,7 @@ section,
 
 .hero .stats-card {
   position: absolute;
-  bottom: 10%;
+  bottom: -5%;
   right: 0;
   background-color: color-mix(in srgb, var(--surface-color), transparent 50%);
   backdrop-filter: blur(10px);
@@ -1038,7 +1038,7 @@ section,
   border-radius: 8px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
   text-align: center;
-  min-width: 140px;
+  min-width: 100px;
 }
 
 .about .about-image .experience-badge .years {
